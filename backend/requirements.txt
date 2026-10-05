@@ -1,0 +1,10 @@
+Flask==3.0.3
+Flask-Cors==5.0.0
+Flask-JWT-Extended==4.6.0
+Werkzeug==3.0.3
+tensorflow==2.16.2
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
+python-dotenv==1.0.1
+gunicorn==23.0.0
